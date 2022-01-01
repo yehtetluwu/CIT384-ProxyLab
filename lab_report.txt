@@ -1,0 +1,13 @@
+Name: Ye Htet Lu
+    Lab Name: 16-proxy-server
+    Date Assigned: 12.01.2021
+    Date Completed: 12.07.2021
+    Status: Good Progress
+    Outstanding Issues:
+        Had troubles with https on site1 and site3. I was able to force https when i go to http://site1.internal:8080 which proxied to site2.internal/ but /images and /special didn't load.  
+    
+    Major Impediments:
+        Same as outstanding issues
+
+    Feedback Comments:
+        None 
